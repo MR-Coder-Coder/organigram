@@ -14,7 +14,6 @@ const App: React.FC = () => {
     setSelectedBoxId,
     addBox,
     updateBox,
-    removeBox,
     toggleLine,
     toggleDrawingLine,
     saveState,
